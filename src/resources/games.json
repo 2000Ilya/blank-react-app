@@ -1,0 +1,225 @@
+[
+    {
+      "pictureLink": "https://speed-zone.pl/wp-content/uploads/2018/03/raceroom-1210x642.jpg",
+      "gameName": "RACEROOM RACING EXPERIENCE",
+      "gamelove": true,
+      "difficulty": "easy",
+      "riddle": true,
+      "genre": "racing",
+      "price": {"Free": {"minPrice":0, "maxPrice":0}},
+      "design": "Good"
+    },
+    {
+       "pictureLink": "https://speed-zone.pl/wp-content/uploads/2018/03/raceroom-1210x642.jpg",
+      "gameName": "RACEROOM RACING EXPERIENCE",
+      "gamelove": true,
+      "difficulty": "easy",
+      "riddle": true,
+      "genre": "racing",
+      "price": {"Free": {"minPrice":0, "maxPrice":0}},
+      "design": "Best"
+    },
+    {
+       "pictureLink": "https://images.nintendolife.com/cf1ed1a47ba1c/rekt-high-octane-stunts-cover.cover_large.jpg",
+      "gameName": "REKT: CRASH TEST",
+      "gamelove": true,
+      "difficulty": "easy",
+      "riddle": true,
+      "genre": "racing",
+      "price": {"Free": {"minPrice":0, "maxPrice":0}},
+      "design": "Visible"
+    },
+    {
+       "pictureLink": "https://images.nintendolife.com/cf1ed1a47ba1c/rekt-high-octane-stunts-cover.cover_large.jpg",
+      "gameName": "REKT: CRASH TEST",
+      "gamelove": true,
+      "difficulty": "easy",
+      "riddle": true,
+      "genre": "racing",
+      "price": {"Free": {"minPrice":0, "maxPrice":0}},
+      "design": "NeverMind"
+    },
+    {
+       "pictureLink": "https://images.gog-statics.com/9d6a9522550d2b2e7c73d883fb8cfd73473d5f7d41278e0455958a156307bdac_product_card_v2_mobile_slider_639.jpg",
+      "gameName": "FlatOut 2",
+      "gamelove": true,
+      "difficulty": "easy",
+      "riddle": true,
+      "genre": "racing",
+      "price": {"CheapestPriceSegment": {"minPrice":100, "maxPrice":300}},
+      "design": "Good"
+    },
+    {
+       "pictureLink": "https://i.playground.ru/p/i5typXhmogcWDHPdOxCZvg.png",
+      "gameName": "F1 2016",
+      "gamelove": true,
+      "difficulty": "easy",
+      "riddle": true,
+      "genre": "racing",
+      "price": {"CheapestPriceSegment": {"minPrice":100, "maxPrice":300}},
+      "design": "Best"
+    },
+    {
+       "pictureLink": "https://tuttop.com/uploads/posts/2019-10/1570268089_the-long-drive.jpg",
+      "gameName": "The Long Drive",
+      "gamelove": true,
+      "difficulty": "easy",
+      "riddle": true,
+      "genre": "racing",
+      "price": {"CheapestPriceSegment": {"minPrice":100, "maxPrice":300}},
+      "design": "Visible"
+    },
+    {
+       "pictureLink": "https://cdn.producerloops.com//images/P/Retrowave%20-%20Artwork.jpg",
+      "gameName": "Retrowave",
+      "gamelove": true,
+      "difficulty": "easy",
+      "riddle": true,
+      "genre": "racing",
+      "price": {"CheapestPriceSegment": {"minPrice":100, "maxPrice":300}},
+      "design": "NeverMind"
+    },
+    {
+       "pictureLink": "https://cdn.cloudflare.steamstatic.com/steam/apps/1170970/header.jpg?t=1623195799",
+      "gameName": "MARBLES ON STREAM",
+      "gamelove": false,
+      "difficulty": "easy",
+      "riddle": true,
+      "genre": "racing",
+      "price": {"Free": {"minPrice":0, "maxPrice":0}},
+      "design": "Good"
+    },
+    {
+       "pictureLink": "https://cdn.cloudflare.steamstatic.com/steam/apps/1170970/header.jpg?t=1623195799",
+      "gameName": "MARBLES ON STREAM",
+      "gamelove": false,
+      "difficulty": "easy",
+      "riddle": true,
+      "genre": "racing",
+      "price": {"Free": {"minPrice":0, "maxPrice":0}},
+      "design": "Best"
+    },
+    {
+       "pictureLink": "https://cdn.cloudflare.steamstatic.com/steam/apps/1170970/header.jpg?t=1623195799",
+      "gameName": "MARBLES ON STREAM",
+      "gamelove": false,
+      "difficulty": "easy",
+      "riddle": true,
+      "genre": "racing",
+      "price": {"Free": {"minPrice":0, "maxPrice":0}},
+      "design": "Visible"
+    },
+    {
+       "pictureLink": "https://cdn.cloudflare.steamstatic.com/steam/apps/1170970/header.jpg?t=1623195799",
+      "gameName": "MARBLES ON STREAM",
+      "gamelove": false,
+      "difficulty": "easy",
+      "riddle": true,
+      "genre": "racing",
+      "price": {"Free": {"minPrice":0, "maxPrice":0}},
+      "design": "NeverMind"
+    },
+    {
+       "pictureLink": "https://cdn.cloudflare.steamstatic.com/steam/apps/1170970/header.jpg?t=1623195799",
+      "gameName": "MARBLES ON STREAM",
+      "gamelove": false,
+      "difficulty": "easy",
+      "riddle": false,
+      "genre": "racing",
+      "price": {"Free": {"minPrice":0, "maxPrice":0}},
+      "design": "Good"
+    },
+    {
+       "pictureLink": "https://cdn.cloudflare.steamstatic.com/steam/apps/1170970/header.jpg?t=1623195799",
+      "gameName": "MARBLES ON STREAM",
+      "gamelove": false,
+      "difficulty": "easy",
+      "riddle": false,
+      "genre": "racing",
+      "price": {"Free": {"minPrice":0, "maxPrice":0}},
+      "design": "Best"
+    },
+    {
+       "pictureLink": "https://cdn.cloudflare.steamstatic.com/steam/apps/1170970/header.jpg?t=1623195799",
+      "gameName": "MARBLES ON STREAM",
+      "gamelove": false,
+      "difficulty": "easy",
+      "riddle": false,
+      "genre": "racing",
+      "price": {"Free": {"minPrice":0, "maxPrice":0}},
+      "design": "Visible"
+    },
+    {
+       "pictureLink": "https://cdn.cloudflare.steamstatic.com/steam/apps/1170970/header.jpg?t=1623195799",
+      "gameName": "MARBLES ON STREAM",
+      "gamelove": false,
+      "difficulty": "easy",
+      "riddle": false,
+      "genre": "racing",
+      "price": {"Free": {"minPrice":0, "maxPrice":0}},
+      "design": "NeverMind"
+    },
+   {
+      "pictureLink": "https://i.ytimg.com/vi/nbCxicX8Wdo/maxresdefault.jpg",
+      "gameName": "Genshin Impact",
+      "gamelove": true,
+      "difficulty": "amateur",
+      "riddle": true,
+      "genre": "adventure",
+      "price": {"Free": {"minPrice":0, "maxPrice":0}},
+      "design": "Best"
+    },
+   {
+      "pictureLink": "https://i.ytimg.com/vi/CaryjOdYFa0/maxresdefault.jpg",
+      "gameName": "Brawl Stars",
+      "gamelove": true,
+      "difficulty": "easy",
+      "riddle": false,
+      "genre": "adventure",
+      "price": {"Free": {"minPrice":0, "maxPrice":0}},
+      "design": "Visible"
+    },
+   {
+      "pictureLink": "https://upload.wikimedia.org/wikipedia/en/a/ab/Your_Turn_To_Die%2C_Chapter_2_Part_2_Title_Screen.jpg",
+      "gameName": "Your turn to die",
+      "gamelove": false,
+      "difficulty": "amateur",
+      "riddle": true,
+      "genre": "adventure",
+      "price": {"Free": {"minPrice":0, "maxPrice":0}},
+      "design": "Visible"
+    },
+   {
+      "pictureLink": "https://cdn.cloudflare.steamstatic.com/steam/apps/413410/capsule_616x353.jpg?t=1637303326",
+      "gameName": "Danganronpa",
+      "gamelove": false,
+      "difficulty": "amateur",
+      "riddle": true,
+      "genre": "adventure",
+      "price": {"middlePriceSegment": {"minPrice":500, "maxPrice":1000}},
+      "design": "Good"
+    },
+  
+   {
+      "pictureLink": "https://cdn.ananasposter.ru/image/cache/catalog/poster/games/87/6609-1000x830.jpg",
+      "gameName": "Undertale",
+      "gamelove": true,
+      "difficulty": "hard",
+      "riddle": true,
+      "genre": "adventure",
+      "price": {"CheapestPriceSegment": {"minPrice":100, "maxPrice":300}},
+      "design": "NeverMind"
+    },
+   {
+      "pictureLink": "https://cdn.cloudflare.steamstatic.com/steam/apps/319510/header.jpg?t=1579635996",
+      "gameName": "Five Nights at Freddy's",
+      "gamelove": false,
+      "difficulty": "easy",
+      "riddle": false,
+      "genre": "adventure",
+      "price": {"CheapestPriceSegment": {"minPrice":100, "maxPrice":300}},
+      "design": "Good"
+    }
+  
+  ]
+  
