@@ -10,16 +10,6 @@
       "design": "Good"
     },
     {
-       "pictureLink": "https://speed-zone.pl/wp-content/uploads/2018/03/raceroom-1210x642.jpg",
-      "gameName": "RACEROOM RACING EXPERIENCE",
-      "gamelove": true,
-      "difficulty": "easy",
-      "riddle": true,
-      "genre": "racing",
-      "price": {"Free": {"minPrice":0, "maxPrice":0}},
-      "design": "Best"
-    },
-    {
        "pictureLink": "https://images.nintendolife.com/cf1ed1a47ba1c/rekt-high-octane-stunts-cover.cover_large.jpg",
       "gameName": "REKT: CRASH TEST",
       "gamelove": true,
@@ -28,16 +18,6 @@
       "genre": "racing",
       "price": {"Free": {"minPrice":0, "maxPrice":0}},
       "design": "Visible"
-    },
-    {
-       "pictureLink": "https://images.nintendolife.com/cf1ed1a47ba1c/rekt-high-octane-stunts-cover.cover_large.jpg",
-      "gameName": "REKT: CRASH TEST",
-      "gamelove": true,
-      "difficulty": "easy",
-      "riddle": true,
-      "genre": "racing",
-      "price": {"Free": {"minPrice":0, "maxPrice":0}},
-      "design": "NeverMind"
     },
     {
        "pictureLink": "https://images.gog-statics.com/9d6a9522550d2b2e7c73d883fb8cfd73473d5f7d41278e0455958a156307bdac_product_card_v2_mobile_slider_639.jpg",
@@ -88,76 +68,6 @@
       "genre": "racing",
       "price": {"Free": {"minPrice":0, "maxPrice":0}},
       "design": "Good"
-    },
-    {
-       "pictureLink": "https://cdn.cloudflare.steamstatic.com/steam/apps/1170970/header.jpg?t=1623195799",
-      "gameName": "MARBLES ON STREAM",
-      "gamelove": false,
-      "difficulty": "easy",
-      "riddle": true,
-      "genre": "racing",
-      "price": {"Free": {"minPrice":0, "maxPrice":0}},
-      "design": "Best"
-    },
-    {
-       "pictureLink": "https://cdn.cloudflare.steamstatic.com/steam/apps/1170970/header.jpg?t=1623195799",
-      "gameName": "MARBLES ON STREAM",
-      "gamelove": false,
-      "difficulty": "easy",
-      "riddle": true,
-      "genre": "racing",
-      "price": {"Free": {"minPrice":0, "maxPrice":0}},
-      "design": "Visible"
-    },
-    {
-       "pictureLink": "https://cdn.cloudflare.steamstatic.com/steam/apps/1170970/header.jpg?t=1623195799",
-      "gameName": "MARBLES ON STREAM",
-      "gamelove": false,
-      "difficulty": "easy",
-      "riddle": true,
-      "genre": "racing",
-      "price": {"Free": {"minPrice":0, "maxPrice":0}},
-      "design": "NeverMind"
-    },
-    {
-       "pictureLink": "https://cdn.cloudflare.steamstatic.com/steam/apps/1170970/header.jpg?t=1623195799",
-      "gameName": "MARBLES ON STREAM",
-      "gamelove": false,
-      "difficulty": "easy",
-      "riddle": false,
-      "genre": "racing",
-      "price": {"Free": {"minPrice":0, "maxPrice":0}},
-      "design": "Good"
-    },
-    {
-       "pictureLink": "https://cdn.cloudflare.steamstatic.com/steam/apps/1170970/header.jpg?t=1623195799",
-      "gameName": "MARBLES ON STREAM",
-      "gamelove": false,
-      "difficulty": "easy",
-      "riddle": false,
-      "genre": "racing",
-      "price": {"Free": {"minPrice":0, "maxPrice":0}},
-      "design": "Best"
-    },
-    {
-       "pictureLink": "https://cdn.cloudflare.steamstatic.com/steam/apps/1170970/header.jpg?t=1623195799",
-      "gameName": "MARBLES ON STREAM",
-      "gamelove": false,
-      "difficulty": "easy",
-      "riddle": false,
-      "genre": "racing",
-      "price": {"Free": {"minPrice":0, "maxPrice":0}},
-      "design": "Visible"
-    },
-    {
-       "pictureLink": "https://cdn.cloudflare.steamstatic.com/steam/apps/1170970/header.jpg?t=1623195799",
-      "gameName": "MARBLES ON STREAM",
-      "gamelove": false,
-      "difficulty": "easy",
-      "riddle": false,
-      "genre": "racing",
-      "price": {"Free": {"minPrice":0, "maxPrice":0}},
-      "design": "NeverMind"
     },
    {
       "pictureLink": "https://i.ytimg.com/vi/nbCxicX8Wdo/maxresdefault.jpg",
@@ -220,6 +130,5 @@
       "price": {"CheapestPriceSegment": {"minPrice":100, "maxPrice":300}},
       "design": "Good"
     }
-  
-  ]
+]
   
