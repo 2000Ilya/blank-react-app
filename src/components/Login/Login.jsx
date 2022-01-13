@@ -37,7 +37,7 @@ function Login() {
         onChange={onChangePassword}
         value={password}
       />
-      <button type={"submit"}></button>
+      <button type={"submit"}>{"Авторизоваться"}</button>
     </form>
   );
 }
