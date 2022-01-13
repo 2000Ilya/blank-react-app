@@ -1,4 +1,4 @@
-[
+ [
     {
       "pictureLink": "https://speed-zone.pl/wp-content/uploads/2018/03/raceroom-1210x642.jpg",
       "gameName": "RACEROOM RACING EXPERIENCE",
@@ -6,7 +6,7 @@
       "difficulty": "easy",
       "riddle": true,
       "genre": "racing",
-      "price": {"Free": {"minPrice":0, "maxPrice":0}},
+      "price": "free",
       "design": "Good"
     },
     {
@@ -16,7 +16,7 @@
       "difficulty": "easy",
       "riddle": true,
       "genre": "racing",
-      "price": {"Free": {"minPrice":0, "maxPrice":0}},
+      "price": "free",
       "design": "Visible"
     },
     {
@@ -26,7 +26,7 @@
       "difficulty": "easy",
       "riddle": true,
       "genre": "racing",
-      "price": {"CheapestPriceSegment": {"minPrice":100, "maxPrice":300}},
+      "price": "cheapestPriceSegment",
       "design": "Good"
     },
     {
@@ -36,7 +36,7 @@
       "difficulty": "easy",
       "riddle": true,
       "genre": "racing",
-      "price": {"CheapestPriceSegment": {"minPrice":100, "maxPrice":300}},
+      "price": "cheapestPriceSegment",
       "design": "Best"
     },
     {
@@ -46,7 +46,7 @@
       "difficulty": "easy",
       "riddle": true,
       "genre": "racing",
-      "price": {"CheapestPriceSegment": {"minPrice":100, "maxPrice":300}},
+      "price": "cheapestPriceSegment",
       "design": "Visible"
     },
     {
@@ -56,7 +56,7 @@
       "difficulty": "easy",
       "riddle": true,
       "genre": "racing",
-      "price": {"CheapestPriceSegment": {"minPrice":100, "maxPrice":300}},
+      "price": "cheapestPriceSegment",
       "design": "NeverMind"
     },
     {
@@ -66,7 +66,7 @@
       "difficulty": "easy",
       "riddle": true,
       "genre": "racing",
-      "price": {"Free": {"minPrice":0, "maxPrice":0}},
+      "price": "free",
       "design": "Good"
     },
    {
@@ -76,7 +76,7 @@
       "difficulty": "amateur",
       "riddle": true,
       "genre": "adventure",
-      "price": {"Free": {"minPrice":0, "maxPrice":0}},
+      "price": "free",
       "design": "Best"
     },
    {
@@ -86,7 +86,7 @@
       "difficulty": "easy",
       "riddle": false,
       "genre": "adventure",
-      "price": {"Free": {"minPrice":0, "maxPrice":0}},
+      "price": "free",
       "design": "Visible"
     },
    {
@@ -106,7 +106,7 @@
       "difficulty": "amateur",
       "riddle": true,
       "genre": "adventure",
-      "price": {"middlePriceSegment": {"minPrice":500, "maxPrice":1000}},
+      "price": "middlePriceSegment",
       "design": "Good"
     },
   
@@ -117,7 +117,7 @@
       "difficulty": "hard",
       "riddle": true,
       "genre": "adventure",
-      "price": {"CheapestPriceSegment": {"minPrice":100, "maxPrice":300}},
+      "price": "cheapestPriceSegment",
       "design": "NeverMind"
     },
    {
@@ -127,7 +127,7 @@
       "difficulty": "easy",
       "riddle": false,
       "genre": "adventure",
-      "price": {"CheapestPriceSegment": {"minPrice":100, "maxPrice":300}},
+      "price": "cheapestPriceSegment",
       "design": "Good"
     }
 ]
