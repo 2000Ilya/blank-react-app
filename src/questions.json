@@ -1,0 +1,40 @@
+[
+    {
+        "type": "genre",
+        "questionText": "Какой стиль игры вам по вкусу",
+        "answers": [{"text": "racing", "description":"Гонки"}, {"text": "sim", "description":"Симулятор"}, {"text": "shooter", "description":"Шутер"}, {"text": "adventure", "description":"Приключение"} ]
+    },
+
+    {
+        "type": "gameLove",
+        "questionText": "Готовы ли вы уделять много времени видеоиграм",
+        "answers": [{"text": true, "description":"Чи да"}, {"text": false, "description":"Нет"}]
+    },
+
+    {
+        "type": "difficulty",
+        "questionText": "Предпочитаемый уровень сложности",
+        "answers": [{"text": "easy", "description":"Легкий"}, {"text": "amateur", "description":"Средний"}, {"text": "hard", "description":"Сложный"}]
+    },
+
+    {
+        "type": "riddle",
+        "questionText": "Вам нравится подумать над зашадками",
+        "answers": [{"text": true, "description":"Да"}, {"text": false, "description":"Нет"}]
+    },
+
+    {
+        "type": "price",
+        "questionText": "Какой бюджет вы готовы потратить на игру",
+        "answers": [{"text": "free", "description":"0"}, {"text": "cheapestPriceSegment", "description":"100-300"},
+            {"text": "cheapPriceSegment", "description":"300-500"}, {"text": "middlePriceSegment", "description":"500-1000"}, 
+            {"text": "expensivePriceSegment", "description":"1000+"} ]
+    },
+    {
+        "type": "design",
+        "questionText": "Насколько проработанной должна быть графика в играх",
+        "answers": [{"text": "good", "description":"Достойны уровень"}, {"text": "best", "description":"Графика высшего качества"},
+            {"text": "visible", "description":"Достаточно просто различать объекты"}, {"text": "neverMind", "description":"Не важно"} ]
+    }
+
+]
