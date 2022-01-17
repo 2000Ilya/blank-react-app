@@ -13,7 +13,8 @@
         }, {
             "text": "adventure",
             "description": "Приключение"
-        }]
+        }],
+        "addText": "Укажите жанр игры"
     },
 
     {
@@ -25,7 +26,8 @@
         }, {
             "text": false,
             "description": "Нет"
-        }]
+        }],
+        "addText": "Укажите необходимость уделения времени игре"
     },
 
     {
@@ -40,19 +42,21 @@
         }, {
             "text": "hard",
             "description": "Сложный"
-        }]
+        }],
+        "addText": "Укажите уровень сложности"
     },
 
     {
         "type": "riddle",
-        "questionText": "Вам нравится подумать над зашадками",
+        "questionText": "Вам нравится подумать над загадками",
         "answers": [{
             "text": true,
             "description": "Да"
         }, {
             "text": false,
             "description": "Нет"
-        }]
+        }],
+        "addText": "Укажите наличие загадок"
     },
 
     {
@@ -76,14 +80,15 @@
                 "text": "expensivePriceSegment",
                 "description": "1000+"
             }
-        ]
+        ],
+        "addText": "Укажите бюджет игры"
     },
     {
         "type": "design",
         "questionText": "Насколько проработанной должна быть графика в играх",
         "answers": [{
                 "text": "good",
-                "description": "Достойны уровень"
+                "description": "Достойный уровень"
             }, {
                 "text": "best",
                 "description": "Графика высшего качества"
@@ -95,7 +100,8 @@
                 "text": "neverMind",
                 "description": "Не важно"
             }
-        ]
+        ],
+        "addText": "Укажите уровень графики"
     }
 
 ]

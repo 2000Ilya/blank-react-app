@@ -24,7 +24,7 @@ function Login() {
   };
 
   return (
-    <form onSubmit={handleLogin}>
+    <form onSubmit={handleLogin} style={{'borderColor': `${localStorage.getItem('isAuth')? "green" : "black"}`}}>
       <input
         type={"text"}
         placeholder={"Введите логин"}

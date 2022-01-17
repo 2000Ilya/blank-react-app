@@ -1,22 +1,37 @@
-import React from "react";
+import React, {useEffect, useState} from "react";
 import "../InterResult/InterResult.css";
 import games from "../../resources/games.json";
 
-function InterResult({}) {
-  const answers = localStorage.getItem("answers");
+function InterResult({answers}) {
+  // const answers = localStorage.getItem("answers");
 
+  var matches = 0;
   const result = sortResults(filterResults());
+ 
+
 
   function filterResults() {
-    return games.filter((game) => {
-      for (let property in answers) {
-        if (game[property] !== answers[property]) {
-          return false;
+    let current = []; 
+    let maxMatch = 0;
+    let data = JSON.parse(localStorage.getItem("games"))
+    data.forEach((game) => {
+      let statistic = 0;
+      for (let property in answers) { 
+        if (String(answers[property]) == String(game[property])) {
+          statistic++;
         }
       }
-
-      return true;
-    });
+      if (statistic > maxMatch) {
+        maxMatch = statistic;
+        matches = statistic;
+        current = [];
+        current.push(game);
+      }
+      else if (statistic == maxMatch) {
+        current.push(game);
+      }
+    })
+    return current;
   }
 
   function sortResults(games) {
@@ -25,9 +40,11 @@ function InterResult({}) {
   }
 
   return (
-    <div>
-      <img src={result.pictureLink} />
-      {result.gameName}
+    <div className="result">
+      <p className="result_title">Я думаю, что вам идеально подходит:</p>
+      <img  src={result.pictureLink}/>
+      <p className="result_name">{result.gameName}</p>
+      <p>Количество совпадений: {matches}</p>
     </div>
   );
 }
