@@ -35,6 +35,7 @@ function InterResult({answers}) {
   }
 
   function sortResults(games) {
+    console.log(games)
     games.sort((prev, next) => next.mark - prev.mark);
     return games[0];
   }

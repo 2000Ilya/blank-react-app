@@ -6,7 +6,7 @@
         "riddle": true,
         "genre": "racing",
         "price": "free",
-        "design": "Good",
+        "design": "good",
         "mark": 1
     },
     {
@@ -17,7 +17,7 @@
         "riddle": true,
         "genre": "racing",
         "price": "free",
-        "design": "Visible",
+        "design": "visible",
         "mark": 4
     },
     {
@@ -28,7 +28,7 @@
         "riddle": true,
         "genre": "racing",
         "price": "cheapestPriceSegment",
-        "design": "Good",
+        "design": "good",
         "mark": 3
     },
     {
@@ -39,7 +39,7 @@
         "riddle": true,
         "genre": "racing",
         "price": "cheapestPriceSegment",
-        "design": "Best",
+        "design": "best",
         "mark": 5
     },
     {
@@ -50,7 +50,7 @@
         "riddle": true,
         "genre": "racing",
         "price": "cheapestPriceSegment",
-        "design": "Visible",
+        "design": "visible",
         "mark": 6
     },
     {
@@ -61,7 +61,7 @@
         "riddle": true,
         "genre": "racing",
         "price": "cheapestPriceSegment",
-        "design": "NeverMind",
+        "design": "neverMind",
         "mark": 2
     },
     {
@@ -72,7 +72,7 @@
         "riddle": true,
         "genre": "racing",
         "price": "free",
-        "design": "Good",
+        "design": "good",
         "mark": 9
     },
     {
@@ -83,7 +83,7 @@
         "riddle": true,
         "genre": "adventure",
         "price": "free",
-        "design": "Best",
+        "design": "best",
         "mark": 0
     },
     {
@@ -94,7 +94,7 @@
         "riddle": false,
         "genre": "adventure",
         "price": "free",
-        "design": "Visible",
+        "design": "visible",
         "mark": 4
     },
     {
@@ -110,7 +110,7 @@
                 "maxPrice": 0
             }
         },
-        "design": "Visible",
+        "design": "visible",
         "mark": 9
     },
     {
@@ -121,7 +121,7 @@
         "riddle": true,
         "genre": "adventure",
         "price": "middlePriceSegment",
-        "design": "Good",
+        "design": "good",
         "mark": 5
     },
 
@@ -133,7 +133,7 @@
         "riddle": true,
         "genre": "adventure",
         "price": "cheapestPriceSegment",
-        "design": "NeverMind",
+        "design": "neverMind",
         "mark": 7
     },
     {
@@ -144,7 +144,7 @@
         "riddle": false,
         "genre": "adventure",
         "price": "cheapestPriceSegment",
-        "design": "Good",
+        "design": "good",
         "mark": 2
     }
 ]

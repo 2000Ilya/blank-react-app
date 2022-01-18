@@ -88,7 +88,7 @@ function App() {
             </>
           ) :  (
             <>
-            <h1 onClick={() => console.log(result)}>Чи да</h1>
+            <h1 onClick={() => console.log(result)}>Xb lf</h1>
           <button
             onClick={() => setCounter((prevCounter) => {
               if (prevCounter > 0) {
@@ -96,6 +96,7 @@ function App() {
               }
             })}
             disabled={counter === 0}
+            className="stepButton"
           >
             {"Назад"}
           </button>
@@ -113,7 +114,7 @@ function App() {
                 return prevCounter + 1;
               }
             })}
-            
+            className="stepButton"
           >
             {"Далее"}
           </button>

@@ -34,7 +34,7 @@ const ExpertPage = ({quit}) => {
     };
   }, []);
 
-  {if (localStorage.auth) {
+  {if (localStorage.getItem('isAuth')) {
     return (
       <div className="expert">
         {/* <h1 onClick={() => {console.log(newGame)}}>ff</h1> */}
