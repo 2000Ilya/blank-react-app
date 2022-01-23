@@ -7,15 +7,18 @@ function Question({ questionText, answerVariants, questionIndex, type, changeVal
   const [value, setValue] = useState(answerVariants[0].text);
 
   useEffect(() => {
-    console.log(result);
     changeValue(type,value);
   }, [value])
+
+  useEffect(() => {
+    setValue(answerVariants[0].text)
+  }, [questionText])
 
 
   return (
     <>
       <div className="question">
-        <h2 className="title">{questionText}</h2>
+        <h2 className="title" onClick={() => console.log(value)}>{questionText}</h2>
         <select value={value} onChange={(e) => {setValue(e.target.value);} } className="question_select">
           {answerVariants.map((answer, key) => (
             <option value={answer.text}  key={key}>

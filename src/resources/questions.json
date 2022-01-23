@@ -22,7 +22,7 @@
         "questionText": "Готовы ли вы уделять много времени видеоиграм",
         "answers": [{
             "text": true,
-            "description": "Чи да"
+            "description": "Да"
         }, {
             "text": false,
             "description": "Нет"
